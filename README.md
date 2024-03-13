@@ -3,11 +3,17 @@
 <h1 align="left">Hi 👋, I'm Yeyeong Cho</h1>
 <h3 align="left">A passionate frontend developer from Korea</h3>
 
+- ❤️ Currently, I am enjoying life as an exchange student at Masaryk University in Brno, Czech Republic.
+
+- 🏫 Home university is Kyungpook University in Daegu, Korea
+
 - 🌱 I’m currently learning **Computer Science & Business Administraion**
+
+- 🏃‍♀️ I'm passionate about **English & traveling**
 
 - 📝 I regularly write articles on [https://blog.naver.com/betty5604](https://blog.naver.com/betty5604)
 
-- 📫 How to reach me **betty5604@naver.com**
+- 📫 How to reach me **betty5604@naver.com** / **betty56044@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
