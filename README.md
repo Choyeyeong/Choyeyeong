@@ -3,9 +3,9 @@
 <h1 align="left">Hi 👋, I'm Yeyeong Cho</h1>
 <h3 align="left">A passionate frontend developer from Korea</h3>
 
-- ❤️ Currently, I am enjoying life as an exchange student at Masaryk University in Brno, Czech Republic.
+- ❤️ Currently, I am enjoying life as **an exchange student at Masaryk University in Brno, Czech Republic**
 
-- 🏫 Home university is Kyungpook University in Daegu, Korea
+- 🏫 Home university is **Kyungpook University in Daegu, Korea**
 
 - 🌱 I’m currently learning **Computer Science & Business Administraion**
 
