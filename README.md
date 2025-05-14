@@ -5,7 +5,7 @@
 
 - 🏫 Home university is **Kyungpook University in Daegu, Korea**
 
-- 🌱 I’m currently learning **Computer Science & Business Administraion**
+- 🌱 I’m currently learning **Computer Science & Business Administration**
 
 - 🏃‍♀️ I'm passionate about **English & traveling**
 
